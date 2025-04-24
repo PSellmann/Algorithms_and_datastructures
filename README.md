@@ -1,1 +1,1 @@
-# Algorithms and datastructures wirtte in the C programming language
+# Algorithms and datastructures wirtten in the C programming language
